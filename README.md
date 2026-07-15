@@ -8,6 +8,7 @@ Documentation for Home Assistant and velbus-aio development.
 |------|-------------|
 | [channel_naming.md](channel_naming.md) | How channel names are determined in velbus-aio — via live Velbus bus messages or VLP file import |
 | [module_spec_json.md](module_spec_json.md) | Reference for all fields in the velbus-aio module spec JSON files and what they are used for |
+| [entity_identity.md](entity_identity.md) | Home Assistant entity & device identity — `unique_id`, `entity_id`, `serial` — who sets each and when, and why the property `unique_id` migration is needed |
 
 ## Context
 
